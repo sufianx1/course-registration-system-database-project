@@ -1,6 +1,6 @@
 # course-registration-system-database-project
 
-A full-stack Course Registration System developed as a 4th Semester Database Systems project. This application integrates Microsoft SQL Server with a Python Streamlit frontend, providing an interactive interface for managing students, courses, registrations, fee records, and academic analytics.
+A full-stack Course Registration System built with Microsoft SQL Server, Python, and Streamlit, showcasing database design, SQL queries, CRUD operations, backend integration, and an interactive dashboard for managing academic records and analytics.
 
 ## 🎯 Overview
 
